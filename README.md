@@ -61,3 +61,7 @@ Precision score: 0.95
 The best resampling algorithm would be the combination of over and under(SMOTEEN) because it had the highest recall score for the high risk group, and they all had low precision. 
 
 The best ensemble algorithm is the EasyEnsembleClassifier because it has a relatively high recall and precision. In a severly unbalanced dataset we are expecting a low precision. We don't want a model as strict as XGBClassifier because we prefer a more sensitive model when it comes to credit risk.
+
+MIT License
+
+Copyright (c) 2021 Daniel Gallagher
