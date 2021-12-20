@@ -1,6 +1,6 @@
 # Credit_Risk_Supervised
 Supervised Machine Learning
-
+![](loan-apps.jpg)
 ### Initial Analysis:
 * This analysis with supervised learning algorithms is used to clarify whether a lending company could use a classification algorithm to identify low-risk loans (borrowers with good credit) and high-risk loans (borrowers with bad credit).
 
